@@ -1,5 +1,13 @@
 # PROSMA
 
+![image_alt](https://github.com/Kavindasamarakoon/PROSMA/blob/c05927926899e5244adf77c793dee8f9d4d4ee37/8.png)
+![image_alt](https://github.com/Kavindasamarakoon/PROSMA/blob/c05927926899e5244adf77c793dee8f9d4d4ee37/9.png)
+![image_alt](https://github.com/Kavindasamarakoon/PROSMA/blob/c05927926899e5244adf77c793dee8f9d4d4ee37/10.png)
+![image_alt](https://github.com/Kavindasamarakoon/PROSMA/blob/c05927926899e5244adf77c793dee8f9d4d4ee37/11.png)
+![image_alt](https://github.com/Kavindasamarakoon/PROSMA/blob/c05927926899e5244adf77c793dee8f9d4d4ee37/12.png)
+
+
+
 PROSMA is a Python-based networking project developed as part of the HND in Network Engineering program at CINEC.
 
 This project demonstrates practical implementation of networking concepts using Python, focusing on structured code, modular design, and real-world problem solving.
